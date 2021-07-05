@@ -17,7 +17,7 @@ export const Routes: React.FC = () => {
   const [data, setData] = useState<UserProp>({ user: null, loading: true });
   const fakeLoad = () => {
     setTimeout(() => {
-      setData({ user: { name: 'Fulano', role: 2 }, loading: false });
+      setData({ user: { name: 'Teste', role: 2 }, loading: false });
     }, 1000);
   };
   useEffect(() => {

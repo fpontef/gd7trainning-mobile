@@ -33,9 +33,12 @@ export const Dashboard: React.FC = () => {
   );
 
   useEffect(() => {
-    api.get('movie').then((response) => {
-      setMedia(response.data.data);
-    });
+    api
+      .get('/movie')
+      .then((response) => {
+        setMedia(response.data.data);
+      })
+      .catch((err) => console.log('ERROR', err));
   }, []);
 
   return (
