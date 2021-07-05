@@ -1,3 +1,51 @@
+# Projeto em React Native (com Expo)
+
+## Nasceu para ajudar a fazer uma playlist de treinamento para a empresa e aprender junto no processo
+
+# Telas usando Android Studio Emulator
+<!-- ![Tela de Login](https://github.com/fpontef/gd7trainning-mobile/blob/main/screenshots/tela_login_1.png ) -->
+<figure style="border: 1px solid gray";>
+  <img src="https://github.com/fpontef/gd7trainning-mobile/blob/main/screenshots/tela_login_1.png" width="50%" height="50%">
+  <figcaption>Tela de Login</figcaption>
+</figure>
+
+---
+
+<figure>
+  <img src="https://github.com/fpontef/gd7trainning-mobile/blob/main/screenshots/tela_login_2.png?raw=true" width="50%" height="50%">
+  <figcaption>Tela de Login - Teclado com avançar sem impedir botão de entrada</figcaption>
+</figure>
+
+
+---
+
+
+<figure>
+  <img src="https://github.com/fpontef/gd7trainning-mobile/blob/main/screenshots/tela_lista_itens.png?raw=true" width="50%" height="50%">
+  <figcaption>Tela de Listagem de Video</figcaption>
+</figure>
+
+---
+
+<figure>
+  <img src="https://github.com/fpontef/gd7trainning-mobile/blob/main/screenshots/tela_descri%C3%A7%C3%A3o_item.png?raw=true" width="50%" height="50%">
+  <figcaption>Tela de Detalhes do Video</figcaption>
+</figure>
+
+---
+
+<figure>
+  <img src="https://github.com/fpontef/gd7trainning-mobile/blob/main/screenshots/tela_player_controle_nativo.png?raw=true" width="50%" height="50%">
+  <figcaption>Tela de Player do Video - Controles Nativos</figcaption>
+</figure>
+
+---
+
+<figure>
+  <img src="https://github.com/fpontef/gd7trainning-mobile/blob/main/screenshots/tela_player_horizontal.png?raw=true" width="50%" height="50%">
+  <figcaption>Tela de Player do Video - Horizontal</figcaption>
+</figure>
+
 # Observações:
 
 ```console
